@@ -5,10 +5,15 @@ This project implements a MultiSplay Tree in C++, a specialized binary search tr
 FEATURES:
 
 1.Binary Search Tree (BST) structure.
+
 2.Multi-splay algorithm for efficient access.
+
 3.Dynamic rebalancing via splaying and rotation.
+
 4.Displays node properties: key, parent, isRoot, depth, etc.
+
 5.Supports interactive search with self-adjusting behavior.
+
 6.Demonstrates advanced pointer manipulation and tree traversal.
 
 FUNCTIONS IMPLEMENTED IN THIS CODE:
