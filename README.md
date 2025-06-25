@@ -28,6 +28,9 @@ FUNCTIONS IMPLEMENTED IN THIS CODE:
 CONCEPTS USED:
 
 1.Binary search Trees
+
 2.Splaying(self-adjusting trees)
+
 3.pointer manipulation
+
 4.Recursion(Treaa creation & Traversal)
