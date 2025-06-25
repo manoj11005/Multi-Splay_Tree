@@ -24,3 +24,10 @@ FUNCTIONS IMPLEMENTED IN THIS CODE:
 4. SwitchPath(): Similar to a splay tree, this self-adjusting update operation swaps the preferred child.
 5. Search(): This function accesses a particular element using the Multi-Splay Algorithm in the Multi-Splay Tree.
 6. Display(): This function displays the entire tree, showing the key value, root status, and parent information for each node.
+
+CONCEPTS USED:
+
+1.Binary search Trees
+2.Splaying(self-adjusting trees)
+3.pointer manipulation
+4.Recursion(Treaa creation & Traversal)
